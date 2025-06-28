@@ -19,13 +19,13 @@ A fully functional e-commerce shopping cart app built with **Flask**, **Tailwind
 ## 📸 Screenshots
 
 ### 🏠 Homepage
-![Homepage](screenshots/homepage.png)
+![Homepage](Screenshots/homepage.png)
 
 ### 🛒 Products Page
-![Cart](screenshots/products.png)
+![Cart](Screenshots/products.png)
 
 ### 💳 Cart Page
-![Checkout](screenshots/cart.png)
+![Checkout](Screenshots/cart.png)
 
 ## 🔗 Demo
 
